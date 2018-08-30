@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "104159310521",
+    "firebase_url": "https://patientinformationsystem-9c821.firebaseio.com",
+    "project_id": "patientinformationsystem-9c821",
+    "storage_bucket": "patientinformationsystem-9c821.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104159310521:android:6fd4c7fccd7b8048",
+        "android_client_info": {
+          "package_name": "com.patientapp.patientinformationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104159310521-h0i1d12m24bl3q7lrhv6qass79fcl8so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjXpDaFQQWfOEr5SHJMbVCtLfle_KPEwI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
